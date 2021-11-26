@@ -10,4 +10,3 @@ Step--6: run python geo_mag_map.py <br/>
 Step--7: run python upper_atm_dash.py<br/><br/>
 It should show following <br/><br/>
 ![](Demo_Upper_Atmosphere.gif)
-
