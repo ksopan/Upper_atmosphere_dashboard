@@ -13,9 +13,10 @@ Built with with Python-Flask/SQLite/Dash
 ```bash
 $ git clone https://github.com/ksopan/Upper_atmosphere_dashboard
 ```
-2. Load or create virtual environment
-3. Install required libraries
-4. Run Python Scripts:
+2. Python Virtual Environment
+> Load or create virtual environment
+> Install required libraries
+3. Run Python Scripts:
 ```bash
 python  sunspots.py
 python mag_plasma.py
