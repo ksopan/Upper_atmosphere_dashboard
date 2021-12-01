@@ -14,8 +14,8 @@ Built with with Python-Flask/SQLite/Dash
 $ git clone https://github.com/ksopan/Upper_atmosphere_dashboard
 ```
 2. Set up custom Python Virtual Environment
-    * Load or create virtual environment
-    * Install required libraries
+    - Load or create virtual environment
+    - Install required libraries
 3. Run Python Scripts:
 ```bash
 python  sunspots.py
