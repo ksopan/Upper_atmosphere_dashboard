@@ -32,5 +32,5 @@ python upper_atm_dash.py
 localhost:PORT 
 ```
 
-Demo of the APP
+Demo of the APP (wait 5-10 seconds as github takes some time to load gif files)
 ![](Demo_Upper_Atmosphere.gif)
